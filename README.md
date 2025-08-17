@@ -1,4 +1,4 @@
-# Task 7 — Identify & Remove Suspicious Browser Extensions (Brave)
+# Identify & Remove Suspicious Browser Extensions (Brave)
 
 ## Overview
 This project documents the identification and removal of suspicious Brave browser extensions.  
